@@ -1,0 +1,6 @@
+framework module Pods_PR_IMDBUITests {
+  umbrella header "Pods-PR_IMDBUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
